@@ -1,5 +1,5 @@
 # About Me:
-📖 Currently studying Computer Engineering @ UNIBO<br>🌱 Learning C#<br>🗒️ Using C, Java, HTML, SQL
+🎓 Bachelor's Degree in Computer Engineering @ UNIBO<br>📖 Master's degree student in Computer Engineering @ UNIBO<br>🌱 Learning C#<br>🗒️ Using C, Java, HTML, SQL
 
 
 ## 🌐 Socials:
