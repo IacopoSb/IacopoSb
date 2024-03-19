@@ -1,5 +1,6 @@
 # About Me:
-🎓 Bachelor's Degree in Computer Engineering @ UNIBO<br>📖 Master's degree student in Computer Engineering @ UNIBO
+🎓 Bachelor's Degree in Computer Engineering @ UNIBO<br>📖 Master's degree student in Computer Engineering @ UNIBO<br>👨‍💻 Software developer @ Mexage S.R.L.
+
 
 
 ## 🌐 Socials:
