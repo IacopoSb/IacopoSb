@@ -7,13 +7,14 @@
 📖 Master's Degree Student in Computer Engineering @ UNIBO  
 👨‍💻 Software Developer @ Mexage S.R.L.  
 
-Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/IacopoSb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/IacopoSb)
+Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/IacopoSb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/IacopoSb) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/iacopo-sbalchiero)
 
 ---
 
 # 💻 Tech Stack
 
 ### Languages
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](#) 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) 
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](#) 
@@ -23,6 +24,7 @@ Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?
 [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)](#)  
 
 ### Software & Tools
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![LaTeX](https://img.shields.io/badge/LaTex-%23008080.svg?logo=latex&logoColor=white)](#) 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)](#) 
 [![Prezi](https://img.shields.io/badge/Prezi-%0b59c3.svg?logo=Prezi&logoColor=white)](#)  
