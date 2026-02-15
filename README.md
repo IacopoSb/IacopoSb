@@ -7,34 +7,30 @@
 📖 Master's Degree Student in Computer Engineering @ UNIBO  
 👨‍💻 Software Developer @ Mexage S.R.L.  
 
-Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/IacopoSb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/IacopoSb) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/iacopo-sbalchiero)
+Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/IacopoSb) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/iacopo-sbalchiero)
 
 ---
 
-# 💻 Tech Stack
-
 ### Languages
+[![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](#) 
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) 
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](#) 
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](#) 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=white)](#) 
-[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)](#)  
-
-### Software & Tools
+[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff)](#)
+### DevOps & Infrastructure
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![LaTeX](https://img.shields.io/badge/LaTex-%23008080.svg?logo=latex&logoColor=white)](#) 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)](#) 
-[![Prezi](https://img.shields.io/badge/Prezi-%0b59c3.svg?logo=Prezi&logoColor=white)](#)  
-
-### Graphics
-[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white)](#) 
-[![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?logo=Adobe%20Lightroom&logoColor=white)](#) 
-[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white)](#) 
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white)](#) 
-[![Gimp](https://img.shields.io/badge/Gimp-473e3b.svg?logo=Gimp&logoColor=white)](#)  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=fff)](#)
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqubeserver&logoColor=fff)](#)
+[![Traefik](https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=fff)](#)
+### Software & Tools
+[![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=homeassistant&logoColor=fff)](#)
+[![LaTeX](https://img.shields.io/badge/LaTex-%23008080.svg?logo=latex&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)](#)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff)](#)
 
 ### OS / Platforms
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)](#) 
@@ -42,9 +38,3 @@ Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?
 [![Linux Debian](https://img.shields.io/badge/Debian-8A2BE2?logo=debian&logoColor=white)](#) 
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)  
 
----
-
-# 📈 Code stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IacopoSb&layout=compact&theme=radical" width="350">
-</p>
