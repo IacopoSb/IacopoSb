@@ -3,8 +3,7 @@
 </p>
 
 # 👋 About Me
-🎓 Bachelor's Degree in Computer Engineering @ UNIBO  
-📖 Master's Degree Student in Computer Engineering @ UNIBO  
+🎓 Master's Degree in Computer Engineering @ UNIBO
 👨‍💻 Software Developer @ Mexage S.R.L.  
 
 Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/IacopoSb) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/iacopo-sbalchiero)
